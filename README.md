@@ -1,7 +1,7 @@
 # A1_AEDV
 
 Trabalho desenvolvido para a primeira avaliação da disciplina de **Análise Exploratória de Dados e Visualização**, cursada no primeiro semestre de 2023.  
-  
+
 Consiste em 4 partes, as quais foram
 
 ## Parte A  
@@ -18,7 +18,7 @@ Produzir uma Análise exploratória utilizando Excel
 
 - Escolher uma base de dados
 - Importar para a o excel e realizar a limpeza da base
-- REalizar a análise dos dados de acordo com os critérios:
+- Realizar a análise dos dados de acordo com os critérios:
 
 (i) Lista de variáveis e seus tipos  
 

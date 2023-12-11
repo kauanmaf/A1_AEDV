@@ -1,0 +1,29 @@
+<svg width="1000" height="700" xmlns="http://www.w3.org/2000/svg">
+<!-- Desenhando o quadrado de fora -->
+<polygon points="0 0 0 700 1000 700 1000 0" fill="white" />
+ <!-- Desenhando as linhas horizontais -->
+ <line x1="0" x2="1000" y1="207.5" y2="207.5" stroke-width="15" stroke="black"/>
+ <line x1="0" x2="900" y1="407.5" y2="407.5" stroke="black" stroke-width="15"/>
+ <line x1="100" x2="1000" y1="557.5" y2="557.5" stroke="black" stroke-width="15" />
+<!-- Desenhando os retângulos verticais -->
+ <line x1="107.5" x2="107.5" y1="0" y2="700" stroke="black" stroke-width="15" />
+ <line x1="207.5" x2="207.5" y1="0" y2="700" stroke="black" stroke-width="15" />
+ <line x1="507.5" x2="507.5" y1="0" y2="700" stroke="black" stroke-width="15"/>
+ <line x1="607.5" x2="607.5" y1="0" y2="700" stroke="black" stroke-width="15" />
+ <line x1="807.5" x2="807.5" y1="0" y2="700" stroke="black" stroke-width="15" />
+ <line x1="907.5" x2="907.5" y1="0" y2="700" stroke="black" stroke-width="15" />
+<!-- Colocando cores -->
+ <!-- verde -->
+ <rect x="215" y= "0" width="285" height="200" fill='#025940'/>
+ <rect x="615" y= "215" width="185" height="185" fill='#025940'/>
+ <rect x="115" y= "565" width="85" height="150" fill='#025940'/>
+ <!-- vermelho-->
+ <rect x="515" y= "0" width="285" height="200" fill='#8C0303'/>
+ <rect x="815" y= "215" width="85" height="185" fill='#8C0303'/>
+ <rect x="215" y= "415" width="385" height="135" fill='#8C0303'/>
+ <!-- amarelo -->
+ <rect x="115" y= "0" width="85" height="200" fill='#F2B705'/>
+ <rect x="815" y= "0" width="85" height="200" fill='#F2B705'/>
+ <rect x="815" y= "415" width="85" height="135" fill='#F2B705'/>
+ <rect x="215" y= "565" width="385" height="150" fill='#F2B705'/>
+</svg>
